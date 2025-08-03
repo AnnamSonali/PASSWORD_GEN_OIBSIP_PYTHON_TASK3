@@ -16,13 +16,3 @@ random (to randomly pick characters)
 
 Requirements:
 No external libraries required — works with standard Python
-
-
-
-
-
-
-
-
-
-Ask ChatGPT
